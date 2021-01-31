@@ -1,0 +1,9 @@
+AwardGiverHasMemberItem (checks if an award item has already been given)
+AwardGiverExecute (gives the award item)
+
+AwardIDs:
+00016588-0000-0000-0000-000000000000 (Raanu Product Page)
+0001658D-0000-0000-0000-000000000000 (Berix Product Page)
+0000F14D-0000-0000-0000-000000000000 (LEGO Club Page)
+00017E9B-0000-0000-0000-000000000000 (Retuned Tuning Fork)
+0001658D-0000-0000-0000-000000000000 (Tarix Product Page)
